@@ -1,27 +1,31 @@
-# Student Information Program
+# Python Practice Projects
 
-## About
-This is my first Python mini project. It takes student details and marks in three subjects as input and calculates the total and average marks.
+This repository contains my beginner Python projects.
 
-## Concepts Used
+## Projects
+
+### 1. Student Information
+- Takes student name and roll number.
+- Accepts marks in three subjects.
+- Calculates total and average marks.
+
+### 2. Student Grade Calculator
+- Takes student details and subject marks.
+- Calculates total and average.
+- Assigns grades.
+- Displays Pass or Fail.
+
+## Language Used
+Python
+
+## Concepts Practised
 - Variables
 - Data Types
 - Input and Output
 - Type Casting
-- Arithmetic Operators
-- Print Statements
-
-## Language
-Python
-
-## How to Run
-1. Install Python.
-2. Open the terminal.
-3. Run:
-
-```bash
-python student_information.py
-```
+- Operators
+- If-Else Statements
+- Logical Operators
 
 ## Author
-Python Beginner
+Python Beginner Learner
